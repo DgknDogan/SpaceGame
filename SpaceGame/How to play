@@ -1,0 +1,12 @@
+#This is my first game with pygame. I really enjoyed while I was coding.
+#All the sounds and visual elements made by me. 
+
+How to play:
+  For green team:
+     You can move with W, A, S, D and shoot with T.
+     
+  For red team:
+    You can move with ARROW KEYS and shoot with L.
+    
+#You can change everything if you want.
+#Have fun :)
